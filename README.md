@@ -15,4 +15,4 @@ Now a new /dev/video device is available, check details using:
 
 View sample output using:
 
-    ffplay /dev/video0
+    ffplay /dev/videoX
